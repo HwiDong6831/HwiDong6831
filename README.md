@@ -14,10 +14,12 @@
 <br>
 <img src="https://skillicons.dev/icons?i=redis,mysql,mongodb&theme=light"/>
 
-### Infra & DevOps
+**Infra & DevOps**
+<br>
 <img src="https://skillicons.dev/icons?i=nginx,docker,jenkins,aws&theme=light"/>
 
-### Communication
+**Communication**
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,discord,figma,notion&theme=light"/>
 
 <!--
