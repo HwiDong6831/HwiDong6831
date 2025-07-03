@@ -7,9 +7,11 @@
 
 # Skills
 **Backend**
+<br>
 <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi&theme=light"/>
 
 **Database**
+<br>
 <img src="https://skillicons.dev/icons?i=redis,mysql,mongodb&theme=light"/>
 
 ### Infra & DevOps
