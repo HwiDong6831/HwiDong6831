@@ -19,10 +19,10 @@
 <img src="https://skillicons.dev/icons?i=git,github,discord,figma,notion&theme=light"/>
 
 
-[comment]: # # Status
-[comment]: # <div>
-[comment]: #   <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=HwiDong6831"/>
-[comment]: #   <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwiDong6831&layout=compact" />
-[comment]: # </div>
+# Status
+<div>
+  <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=HwiDong6831"/>
+  <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwiDong6831&layout=compact" />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:fdfd08&customColorList=18&height=150&section=footer" />
