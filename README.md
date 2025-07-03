@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:fdfd08&customColorList=18&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:fdfd08&customColorList=18&height=100&section=header" />
 
 # History
 - 삼성청년SW·AI아카데미 12기 - (2024.07. ~ 2025.06.)
@@ -25,4 +25,4 @@
   <img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwiDong6831&layout=compact" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:fdfd08&customColorList=18&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:fdfd08&customColorList=18&height=100&section=footer" />
