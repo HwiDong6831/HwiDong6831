@@ -6,10 +6,10 @@
 - 국립금오공과대학교 컴퓨터공학과 - (2018.03. ~ 2022.02.)
 
 # Skills
-### Backend
+**Backend**
 <img src="https://skillicons.dev/icons?i=java,python,spring,fastapi&theme=light"/>
 
-### Database
+**Database**
 <img src="https://skillicons.dev/icons?i=redis,mysql,mongodb&theme=light"/>
 
 ### Infra & DevOps
