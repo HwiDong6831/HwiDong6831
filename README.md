@@ -28,7 +28,7 @@
 
 **Communication**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,discord,figma,notion&theme=light"/>
+<img src="https://skillicons.dev/icons?i=git,github,discord,notion&theme=light"/>
 
 <!--
 ## Status
